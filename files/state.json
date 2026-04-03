@@ -1,0 +1,223 @@
+{
+  "team_a": {
+    "name": "SRIT",
+    "score": 3,
+    "fouls": 0,
+    "timeouts": 3,
+    "color": "#1a3a6b"
+  },
+  "team_b": {
+    "name": "SREC",
+    "score": 11,
+    "fouls": 0,
+    "timeouts": 3,
+    "color": "#8b1a1a"
+  },
+  "quarter": 1,
+  "game_clock": "11:08",
+  "shot_clock": 0.0,
+  "period_minutes": 12,
+  "clock_running": true,
+  "game_started": true,
+  "game_over": false,
+  "overtime": false,
+  "possession": "A",
+  "last_action": "",
+  "events": [
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "Clock started at 12:00",
+      "cat": "clock",
+      "ts": 1774419661.1555893
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "\ud83d\udd34 SREC +3 \u2192 11",
+      "cat": "score",
+      "ts": 1774260269.5999515
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "\ud83d\udd34 SREC +3 \u2192 8",
+      "cat": "score",
+      "ts": 1774260269.2441704
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003683.6731818
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "Clock started at 12:00",
+      "cat": "clock",
+      "ts": 1774003309.2382193
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Shot clock reset to 14s",
+      "cat": "clock",
+      "ts": 1774003305.8410282
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Shot clock reset to 14s",
+      "cat": "clock",
+      "ts": 1774003300.387409
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003294.6583438
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003294.4771094
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003294.4329875
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003294.142925
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003293.7272847
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003293.5422342
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Shot clock set to 14s mode",
+      "cat": "clock",
+      "ts": 1774003287.5564003
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003283.1282156
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003282.9539607
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003280.8030841
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003280.631487
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774003078.6929674
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "Clock started at 00:00.0",
+      "cat": "clock",
+      "ts": 1774003078.5182118
+    },
+    {
+      "time": "00:00.0",
+      "period": "Q1",
+      "msg": "End of QUARTER 1",
+      "cat": "clock",
+      "ts": 1774002611.4204106
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "Clock started at 12:00",
+      "cat": "clock",
+      "ts": 1774002016.100752
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "\ud83d\udd34 SREC +2 \u2192 5",
+      "cat": "score",
+      "ts": 1774002010.447222
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "\ud83d\udd34 SREC +3 \u2192 3",
+      "cat": "score",
+      "ts": 1774002009.014645
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "\ud83d\udd35 SRIT +3 \u2192 3",
+      "cat": "score",
+      "ts": 1774002004.66894
+    },
+    {
+      "time": "12:00",
+      "period": "Q1",
+      "msg": "Game RESET by jury",
+      "cat": "quarter",
+      "ts": 1774001583.0879877
+    }
+  ],
+  "players_a": [],
+  "players_b": [],
+  "fouls_limit": 5,
+  "team_fouls_limit": 10,
+  "timeouts_per_half": 3,
+  "shot_clock_reset": 24,
+  "last_updated": 1774419681.5605063,
+  "jury_name": "wsd",
+  "shot_clock_option": 14,
+  "break_active": false,
+  "break_seconds": 0,
+  "break_label": "",
+  "break_last_updated": 0
+}

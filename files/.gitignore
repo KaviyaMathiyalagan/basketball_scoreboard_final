@@ -1,0 +1,16 @@
+# Game state (live data, not part of source)
+state.json
+
+# Claude Code settings
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
